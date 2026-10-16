@@ -115,3 +115,29 @@ e
 
 e.sort_index()
 
+1.values
+2.index
+3.dtype
+4.shape
+5.ndim
+6.size
+http://7.name
+8.empty
+9.is_unique
+10.hasnans
+11.nbytes
+12.Is_monotonic_increasing
+13.is_monotonic_decreasing
+
+"""
+"""
+Series methods
+1.head()
+2.tail()
+3.sample()
+4.unique()
+5.nunique()
+6.count()
+7.value_counts()
+8.sort_values()
+9.sort_index() 
