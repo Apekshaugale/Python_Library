@@ -1,0 +1,31 @@
+ 1. Import Pandas and read the CSV file into a DataFrame.
+ 2. Display the first 5 rows.
+ 3. Display the last 10 rows.
+ 4. Display  the first 15 rows.
+ 5. Find the number of rows and columns.
+ 6. Display the column names.
+ 7. Check the shape of the DataFrame.
+ 8. Display the data types of all columns.
+ 9. Display the DataFrame information using info().
+10. Generate a statistical summary using describe().
+ 11. Check whether the DataFrame contains missing values.
+ 12. Count the number of duplicate rows.
+ 13. Display only the total_bill column.
+ 14. Display only the tip column.
+ 15. Select the total_bill and tip columns together.
+
+16. Display customers whose total_bill is greater than 20.
+17. Display customers whose tip is greater than 3.
+18. Display customers whose total_bill is less than 10.
+19. Display all male customers.
+20. Display all female customers.
+21. Display customers who are smokers.
+22. Display customers who are not smokers.
+23. Display customers who visited on Sunday.
+24. Display customers who visited on Saturday.
+25. Display customers who came for Dinner.
+26. Display customers whose group size is greater than 3.
+27. Display customers whose total_bill is greater than 20 and tip is greater than 3.
+28. Display customers whose total_bill is greater than 30 or tip is greater than 5.
+29. Display male customers who are smokers.
+30. Display customers who visited on Friday or Saturday.
